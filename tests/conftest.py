@@ -2,7 +2,6 @@ from pytest import fixture
 from mongoengine import connect
 
 from gateways.models import User
-from gateways.mongo import Mongo
 
 
 @fixture
