@@ -5,11 +5,6 @@ from gateways.models import User
 from gateways.mongo import Mongo
 
 
-@fixture(scope="session")
-def mongo():
-    return Mongo().connection
-
-
 @fixture
 def mongo_mock():
     return connect('mongoenginetest', host='mongomock://localhost')
