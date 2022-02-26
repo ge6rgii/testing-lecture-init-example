@@ -1,5 +1,5 @@
-I've created this repo just to be sure that I don't lost this material before the lecture.
-I'm about to write some tests using this tiny project as a part of my workshop
+I've created this repo just to be sure that I won't lost this material before the lecture.
+I'm about to write some tests using this tiny project during my workshop to show students some principles of TDD and so on.
 
 
 run:
